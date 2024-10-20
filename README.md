@@ -8,15 +8,15 @@ Hello! Are you interested in Korean fonts? Fonts play a crucial role in shaping 
 
 ## 폰트 종류
 
-나눔고딕  
-나눔고딕에코  
+나눔고딕(NanumGothic)  
+나눔고딕에코(NanumGothicEco)
 나눔명조  
 나눔명조에코  
 나눔명조옛한글  
 나눔바른고딕(NanumBarunGothic)  
 나눔바른고딕옛한글(NanumBarunGothicYetHangul)  
 나눔바른펜(NanumBarunpen)  
-나눔손글씨붓  
+나눔손글씨붓(NanumBrush)
 나눔손글씨펜  
 나눔스퀘어  
 나눔스퀘어라운지  
