@@ -6,6 +6,56 @@
 
 Hello! Are you interested in Korean fonts? Fonts play a crucial role in shaping the design and mood of text. Especially in websites and various design projects, using Korean fonts properly can enhance readability and add a touch of style. Today, I’m excited to introduce you to Korean fonts!
 
+## 폰트 적용 방법
+
+폰트를 적용하는 방식은 2가지 방식이 있습니다.
+제일 많이 사용하고 있는 링크 방식입니다. 폰트이름만 적으시면 CSS로 바로 연동이 됩니다.
+
+```html
+<link
+  rel="stylesheet"
+  href="https://fontkor.github.io/fontkor/woff2/[폰트이름]/[폰트이름].css"
+/>
+```
+
+링크 방식을 사용할 때도 마찬가지 입니다.
+
+```css
+@import url("https://fontkor.github.io/fontkor/woff2/[폰트이름]/[폰트이름].css");
+```
+
+그리고 원하는 부분에 선언하시면 됩니다.
+
+```html
+<span style="font-family: [폰트이름]">나눔바른고딕</span>
+```
+
+CSS에서 선언할 때도 같은 방식으로 사용합니다.
+
+```css
+.font__list {
+  font-family: [폰트이름];
+}
+```
+
+폰트마다 두꼐가 있습니다.
+필요한 두께만 설정하고 싶다면 다음과 같습니다. 아래의 100은 폰트 두께를 말합니다.
+
+```css
+@import url("https://fontkor.github.io/fontkor/woff2/[폰트이름]/[폰트이름][100].css");
+```
+
+```css
+/* sample */
+@import url("https://fontkor.github.io/fontkor/woff2/fonts.css"); /* 모든 폰트를 적용할 수 있음. 테스트용 */
+@import url("https://fontkor.github.io/fontkor/woff2/MaruBuri/MaruBuri.css"); /* 마루부리 폰트를 적용함[200, 300, 400, 600, 700] */
+@import url("https://fontkor.github.io/fontkor/woff2/MaruBuri/MaruBuri200.css"); /* 마루부리 폰트 두께 200만 적용 */
+@import url("https://fontkor.github.io/fontkor/woff2/MaruBuri/MaruBuri300.css"); /* 마루부리 폰트 두께 300만 적용 */
+@import url("https://fontkor.github.io/fontkor/woff2/MaruBuri/MaruBuri400.css"); /* 마루부리 폰트 두께 400만 적용 */
+@import url("https://fontkor.github.io/fontkor/woff2/MaruBuri/MaruBuri600.css"); /* 마루부리 폰트 두께 600만 적용 */
+@import url("https://fontkor.github.io/fontkor/woff2/MaruBuri/MaruBuri700.css"); /* 마루부리 폰트 두께 700만 적용 */
+```
+
 ## 폰트 종류
 
 나눔고딕(NanumGothic)  
@@ -13,7 +63,7 @@ Hello! Are you interested in Korean fonts? Fonts play a crucial role in shaping 
 나눔명조(NanumMyeongjo)  
 나눔명조에코(NanumMyeongjoEco)  
 나눔명조옛한글(NanumMyeongjoYetHangul)  
-나눔바른고딕(NanumBarunGothic)  
+나눔바른고딕(NanumBarunGothic) [200, 300, 400, 700]  
 나눔바른고딕옛한글(NanumBarunGothicYetHangul)  
 나눔바른펜(NanumBarunpen)  
 나눔손글씨붓(NanumBrush)  
@@ -22,7 +72,7 @@ Hello! Are you interested in Korean fonts? Fonts play a crucial role in shaping 
 나눔스퀘어라운드(NanumSquareRound)  
 나눔스퀘어네오(NanumSquareNeo)  
 D2coding(D2Coding)  
-마루부리(MaruBuri)
+마루부리(MaruBuri) [200, 300, 400, 600, 700]
 
 ## 폰트 두께
 
