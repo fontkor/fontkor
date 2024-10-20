@@ -64,5 +64,14 @@
 
 .font__list {
 }
-.font__list .f1 {
+.font__list > div {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  height: 100%;
+  color: #fff;
+  padding: 0 1%;
+}
+.font__list > div > span:nth-child(1) {
+  font-size: 40px;
 }
