@@ -13,16 +13,16 @@ Hello! Are you interested in Korean fonts? Fonts play a crucial role in shaping 
 나눔명조  
 나눔명조에코  
 나눔명조옛한글  
-나눔바른고딕  
-나눔바른고딕옛한글  
-나눔바른펜  
-나눔손글씨*붓  
-나눔손글씨*펜  
+나눔바른고딕(NanumBarunGothic)  
+나눔바른고딕옛한글(NanumBarunGothicYetHangul)  
+나눔바른펜(NanumBarunpen)  
+나눔손글씨붓  
+나눔손글씨펜  
 나눔스퀘어  
 나눔스퀘어라운지  
 나눔스퀘어네오  
-D2coding  
-마루부리
+D2coding(D2Coding)
+마루부리(MaruBuri)
 
 ## 폰트 두께
 
