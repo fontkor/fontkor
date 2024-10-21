@@ -60,20 +60,20 @@ CSS에서 선언할 때도 같은 방식으로 사용합니다.
 
 ## 폰트 종류
 
-나눔고딕(NanumGothic)  
-나눔고딕에코(NanumGothicEco)  
-나눔명조(NanumMyeongjo)  
-나눔명조에코(NanumMyeongjoEco)  
-나눔명조옛한글(NanumMyeongjoYetHangul)  
+나눔고딕(NanumGothic) [300, 400, 700, 800]
+나눔고딕에코(NanumGothicEco) [400, 700, 800]
+나눔명조(NanumMyeongjo) [400, 700, 800]
+나눔명조에코(NanumMyeongjoEco) [400, 700, 800]
+나눔명조옛한글(NanumMyeongjoYetHangul) [400]
 나눔바른고딕(NanumBarunGothic) [200, 300, 400, 700]  
-나눔바른고딕옛한글(NanumBarunGothicYetHangul)  
-나눔바른펜(NanumBarunpen)  
-나눔손글씨붓(NanumBrush)  
-나눔손글씨펜(NanumPen)  
-나눔스퀘어(NanumSquare)  
-나눔스퀘어라운드(NanumSquareRound)  
-나눔스퀘어네오(NanumSquareNeo)  
-D2coding(D2Coding)  
+나눔바른고딕옛한글(NanumBarunGothicYetHangul) [400]  
+나눔바른펜(NanumBarunpen) [400, 700]  
+나눔손글씨붓(NanumBrush) [400]
+나눔손글씨펜(NanumPen) [400]
+나눔스퀘어(NanumSquare) [300, 400, 700, 800]
+나눔스퀘어라운드(NanumSquareRound) [300, 400, 700, 800]
+나눔스퀘어네오(NanumSquareNeo) [300, 400, 700, 800, 900]
+D2coding(D2Coding) [400, 700]
 마루부리(MaruBuri) [200, 300, 400, 600, 700]
 
 ## 폰트 두께
