@@ -4,6 +4,8 @@
 특히 웹사이트나 다양한 디자인 프로젝트에서 한글 폰트를 적절히 사용하면, 텍스트의 가독성을 높이고 감각적인 느낌을 더할 수 있어요.
 오늘은 여러분께 한국 폰트를 소개해 드릴께요!
 
+[https://fontkor.github.io/fontkor/]
+
 Hello! Are you interested in Korean fonts? Fonts play a crucial role in shaping the design and mood of text. Especially in websites and various design projects, using Korean fonts properly can enhance readability and add a touch of style. Today, I’m excited to introduce you to Korean fonts!
 
 ## 폰트 적용 방법
